@@ -7,7 +7,7 @@ For more Examples and Exercises Check Out: [PythonCrashCoursePrograms](https://g
 # Exercise List By Chapter
 1. Getting Started
 2. Variables and Simple Data Types
-3. Introducting Lists
+3. Introducing Lists
 4. Working with Lists
 5. If Statements
 6. Dictionaries
